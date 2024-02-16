@@ -2,7 +2,7 @@
 
 ## Visualizing Different Maps With Tiles
 
-My [webmap](https://matruong2.github.io/tile-generation/index.html) has 4 different layers showing each of the tile sets that I have created. I decided to focus the area around the Greater Seattle Area because the geospatial dataset I decided to work with was about the people without a High School Diploma in Washington State. All of the tile sets have an available zoom level from 3 to 12.
+My [webmap](https://matruong2.github.io/tile-generation/index.html) has 4 different layers showing each of the tile sets that I have created. I decided to center the map around Washington state because the geospatial dataset I decided to work with was about the people without a High School Diploma in Washington State. All of the tile sets have an available zoom level from 3 to 10.
 
 ### Tile Set 1: Base Map
 
